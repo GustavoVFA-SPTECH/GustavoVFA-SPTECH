@@ -1,6 +1,7 @@
-<h2>E aí! 👋, Me chamo Gustavo Amorim</h2>
-<h3>Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.</h3>
-- 📈 Estou trabalhando em equipe no projeto [Helpers Solution 🖥](https://github.com/joaogcr/Parkwise.git)
+<h1>E aí! 👋, Me chamo Gustavo Amorim</h1>
+<h2>Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.</h2>
+
+- 📈 Estou trabalhando em equipe no projeto [Helpers Solution 🖥](https://github.com/GustavoVFA-SPTECH/helpers-solutions)
 
 - 🌱 Sigo aprimorando minhas habilidades **com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK**
 
