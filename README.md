@@ -11,7 +11,7 @@
 
 - 💬 Estou estudando em meus projetos a integração do **Chart.JS e Web Data Viz**
 
-- 📫 Você pode entrar em contato comigo por **joao.nribeiro@sptech.school**
+- 📫 Você pode entrar em contato comigo por **gustavo.famorim@sptech.school**
 
 stats graph languages graph
 HTML5 CSS3 JavaScript NodeJS MySQL Trello Notion Canva Figma
