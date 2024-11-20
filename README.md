@@ -1,6 +1,6 @@
-E aí! 👋, Me chamo Gustavo Amorim
-Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.
-📈 Estou trabalhando em equipe no projeto Helpers Solutions 💻
+<h2>E aí! 👋, Me chamo Gustavo Amorim</h2>
+<h3>Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.
+📈 Estou trabalhando em equipe no projeto [Helpers Solutions 💻](https://github.com/GustavoVFA-SPTECH/Helpers-Solution.git)</h3>
 
 🌱 Sigo aprimorando minhas habilidades com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK
 
