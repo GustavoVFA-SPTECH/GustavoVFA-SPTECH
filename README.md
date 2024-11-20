@@ -1,16 +1,16 @@
-## Hi there 👋
+E aí! 👋, Me chamo Gustavo Amorim
+Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.
+📈 Estou trabalhando em equipe no projeto Helpers Solutions 💻
 
-<!--
-**GustavoVFA-SPTECH/GustavoVFA-SPTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Sigo aprimorando minhas habilidades com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK
 
-Here are some ideas to get you started:
+👨‍💻 Também estou trabalhando individualmente no Bonfire Memories 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Conheça mais sobre a São Paulo Tech School
+
+💬 Estou estudando em meus projetos a integração do Chart.JS e Web Data Viz
+
+📫 Você pode entrar em contato comigo por gustavo.famorim@sptech.school
+
+stats graph languages graph
+HTML5 CSS3 JavaScript NodeJS MySQL Trello Notion Canva Figma
