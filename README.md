@@ -1,10 +1,10 @@
 <h2>E aí! 👋, Me chamo Gustavo Amorim</h2>
 <h3>Sou estudante de Ciência da Computação com Ênfase em Ciência de Dados na São Paulo Tech School.</h3>
-- 📈 Estou trabalhando em equipe no projeto [ParkWise 🌡](https://github.com/joaogcr/Parkwise.git)
+- 📈 Estou trabalhando em equipe no projeto [Helpers Solution 🖥](https://github.com/joaogcr/Parkwise.git)
 
 - 🌱 Sigo aprimorando minhas habilidades **com HTML, CSS, JavaScript, Node.JS, MySQL, metologia Scrum e documentações baseadas no PMBOK**
 
-- 👨‍💻 Também estou trabalhando individualmente no [NutriLab 🔥](https://github.com/joaogcr/NutriLab.git)
+- 👨‍💻 Também estou trabalhando individualmente no [Bonfire Memories](https://github.com/GustavoVFA-SPTECH/BonfireMemories)
 
 - 🤝 Conheça mais sobre a [São Paulo Tech School](https://info.sptech.school/)
 
