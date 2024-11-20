@@ -8,9 +8,9 @@
 
 - 🤝 Conheça mais sobre a [São Paulo Tech School](https://info.sptech.school/)
 
-💬 Estou estudando em meus projetos a integração do Chart.JS e Web Data Viz
+- 💬 Estou estudando em meus projetos a integração do **Chart.JS e Web Data Viz**
 
-📫 Você pode entrar em contato comigo por gustavo.famorim@sptech.school
+- 📫 Você pode entrar em contato comigo por **joao.nribeiro@sptech.school**
 
 stats graph languages graph
 HTML5 CSS3 JavaScript NodeJS MySQL Trello Notion Canva Figma
